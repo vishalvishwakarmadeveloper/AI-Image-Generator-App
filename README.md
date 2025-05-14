@@ -1,15 +1,15 @@
-# AI Image Generator - Turn Words into Art
+# AI Image Generator App - Turn Words into Art
 
 A full-stack web application that generates AI images from text descriptions using DALL-E 3. Built with React, Convex, and TailwindCSS.
 
 ## Features
 
-- 🎨 Generate images from text descriptions
-- 🖼️ Multiple artistic styles (Photorealistic, Anime, Digital Art, etc.)
-- 📐 Different image sizes (1024x1024, 1024x1792, 1792x1024)
-- 👤 User authentication
-- 🔄 Real-time updates
-- 📱 Responsive design
+- Generate images from text descriptions
+- Multiple artistic styles (Photorealistic, Anime, Digital Art, etc.)
+- Different image sizes (1024x1024, 1024x1792, 1792x1024)
+- User authentication
+- Real-time updates
+- Responsive design
 
 ## Tech Stack
 
@@ -55,3 +55,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Ask Developer- [VISHAL VISHWAKARMA](https://www.linkedin.com/in/vishalvishwkarma/)
+
+If you need any help regarding code or anything, please feel free to contact me. 
+mail me at-   [Vishal Vishwakarma](mailto:vishalkir02@gmail.com)
